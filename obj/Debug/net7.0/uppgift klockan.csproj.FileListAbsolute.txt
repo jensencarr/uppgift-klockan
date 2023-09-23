@@ -1,0 +1,14 @@
+C:\Users\kalle\source\repos\uppgift klockan\bin\Debug\net7.0\uppgift klockan.exe
+C:\Users\kalle\source\repos\uppgift klockan\bin\Debug\net7.0\uppgift klockan.deps.json
+C:\Users\kalle\source\repos\uppgift klockan\bin\Debug\net7.0\uppgift klockan.runtimeconfig.json
+C:\Users\kalle\source\repos\uppgift klockan\bin\Debug\net7.0\uppgift klockan.dll
+C:\Users\kalle\source\repos\uppgift klockan\bin\Debug\net7.0\uppgift klockan.pdb
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\uppgift klockan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\uppgift klockan.AssemblyInfoInputs.cache
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\uppgift klockan.AssemblyInfo.cs
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\uppgift klockan.csproj.CoreCompileInputs.cache
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\uppgift klockan.dll
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\refint\uppgift klockan.dll
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\uppgift klockan.pdb
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\uppgift klockan.genruntimeconfig.cache
+C:\Users\kalle\source\repos\uppgift klockan\obj\Debug\net7.0\ref\uppgift klockan.dll
